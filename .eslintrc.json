@@ -30,7 +30,7 @@
         ],
         "semi": [
             "error",
-            "every"
+            "never"
         ],
         "no-unused-vars": [
             "error",
