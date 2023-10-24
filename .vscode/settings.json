@@ -1,0 +1,11 @@
+{
+    "eslint.enable": true,
+    "eslint.run": "onType",
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "css.lint.unknownAtRules": "ignore"
+}
