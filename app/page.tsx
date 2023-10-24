@@ -1,7 +1,7 @@
-import Navbar from "@/components/navbar";
-import Hero from "@/components/hero";
+import Navbar from '@/components/navbar'
+import Hero from '@/components/hero'
 
-export default function Home() {
+export default function Home (): JSX.Element {
   return (
     <>
       <Navbar />
